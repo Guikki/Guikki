@@ -9,6 +9,8 @@ No momento, meus estudos são em SQL e Python.
 
 Embarca aí e vamos nessa!
 
+**Meu linked in é: linkedin.com/in/gui-celestino/**
+**Meu Instagram: instagram.com/guicelestino1**
 --------------------------------------------------------------------------------
 
 Hi, thanks for coming here!
@@ -21,3 +23,6 @@ In this space, my focus is to share some of my programming studies. However, in 
 At the moment my studies are in SQL and Python.
 
 welcome to my place!
+
+**My linked in is: linkedin.com/in/gui-celestino/**
+**My Instagram: instagram.com/guicelestino1**
