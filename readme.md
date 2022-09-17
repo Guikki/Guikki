@@ -9,7 +9,7 @@ No momento, meus estudos são em SQL e Python.
 
 Embarca aí e vamos nessa!
 
-**Meu linked in é: linkedin.com/in/gui-celestino/**
+**Meu linkedIn é: linkedin.com/in/gui-celestino/**
 
 **Meu Instagram: instagram.com/guicelestino1**
 
@@ -27,6 +27,6 @@ At the moment my studies are in SQL and Python.
 
 welcome to my place!
 
-**My linked in is: linkedin.com/in/gui-celestino/**
+**My linkedIn is: linkedin.com/in/gui-celestino/**
 
 **My Instagram: instagram.com/guicelestino1**
