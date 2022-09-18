@@ -3,7 +3,8 @@ Olá, obrigado por aparecer por aqui!
 Meu nome é Guilherme, mas pode me chamar de Guikki sem nenhum problema.
 
 Sou um advogado (com OAB e tudo) que se apaixonou tanto pelo mundo da tecnologia, que hoje vive estudando Direito e Programação, numa eterna busca em unir esses dois mundos.
-Neste espaço, o meu foco é compartilhar alguns dos meus estudos de programação. Porém, caso seja interessante, tambem vou compartilhar coisas jurídicas aqui.
+
+Neste espaço, o meu foco é compartilhar alguns dos meus estudos de programação. Porém, caso seja interessante, tambem vou compartilhar assuntos jurídicos aqui.
 
 No momento, meus estudos são em SQL e Python.
 
