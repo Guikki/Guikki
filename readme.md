@@ -22,6 +22,7 @@ Hi, thanks for coming here!
 My name is Guilherme, but you can call me Guikki without problems.
 
 I'm a lawyer (with OAB and everything) who have so much love for the world of technology, that today i live studying Law and Programming, in an eternal quest to unite these two worlds.
+
 In this space, my focus is to share some of my programming studies. However, in case it's interesting, I'll also share legal stuff here.
 
 At the moment my studies are in SQL and Python.
