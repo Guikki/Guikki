@@ -8,15 +8,16 @@
 
 # GUI CELESTINO
 
-### `FULL STACK DEVELOPER`
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Science+%40+UFBA;Document+Intelligence;Digital+Forensics+%26+Antifraud"
+    alt="Typing SVG"
+  />
+</a>
 
-**Computer Science @ UFBA · Data Science Graduate**
+**Data Science Graduate**
 
 `PYTHON` · `FASTAPI` · `C# / .NET` · `ANGULAR` · `TYPESCRIPT` · `SQL`
-
----
-
-### `FULL STACK · APIs · DOCUMENT INTELLIGENCE · DIGITAL FORENSICS`
 
 > **Building software from interface to intelligence.**
 
@@ -32,22 +33,32 @@ I build software across the stack — from frontend interfaces and API integrati
 
 My current work is particularly focused on:
 
-```text
-SOFTWARE ENGINEERING
-│
-├── Full Stack Development
-├── REST APIs
-├── Automation
-│
-└── Applied Intelligence
-    ├── Document Intelligence
-    ├── Digital Forensics
-    └── Antifraud Systems
-```
+`Software Engineering` · `Full Stack Development` · `REST APIs`
+
+`Document Intelligence` · `Automation` · `Digital Forensics` · `Antifraud Systems`
 
 Before moving my career toward software development, I built a professional background in **Law and Legal Technology**.
 
 Today, I use that experience as domain knowledge when designing systems involving digital evidence, document analysis, compliance, fraud investigation and information intelligence.
+
+```python
+profile = {
+    "name": "Gui Celestino",
+    "role": "Full Stack Developer",
+
+    "education": {
+        "current": "Computer Science @ UFBA",
+        "completed": "Data Science"
+    },
+
+    "focus": [
+        "Software Engineering",
+        "Document Intelligence",
+        "Digital Forensics",
+        "Antifraud Systems"
+    ]
+}
+```
 
 ---
 
@@ -123,11 +134,11 @@ Today, I use that experience as domain knowledge when designing systems involvin
 </tr>
 </table>
 
-### SPECIALIZED
+### SPECIALIZED TOOLING
 
-`OCR` · `PyMuPDF` · `OpenCV` · `Tesseract`
+`OCR` · `PyMuPDF` · `OpenCV` · `Tesseract` · `Pillow`
 
-`Pillow` · `Metadata Analysis` · `PDF Processing`
+`Metadata Analysis` · `PDF Processing` · `Document Comparison`
 
 ---
 
@@ -139,7 +150,9 @@ Today, I use that experience as domain knowledge when designing systems involvin
 
 **DocDNA** is a modular full stack platform for forensic document analysis and fraud investigation.
 
-Instead of relying on a single indicator, the platform combines independent layers of analysis to determine whether textual, visual, structural and metadata evidence are consistent with each other.
+Instead of relying on a single indicator, the platform combines independent analysis layers to determine whether textual, visual, structural and metadata evidence are consistent with each other.
+
+The project supports individual and batch document analysis and is designed around modularity, separation of responsibilities and progressive integration of forensic techniques.
 
 <table>
 <tr>
@@ -187,9 +200,9 @@ Instead of relying on a single indicator, the platform combines independent laye
 
 `Python` · `FastAPI` · `OpenCV` · `Tesseract OCR`
 
-`PyMuPDF` · `Jinja2` · `JavaScript` · `pytest`
+`PyMuPDF` · `Jinja2` · `HTML` · `CSS` · `JavaScript` · `pytest`
 
-> **The goal is not simply to extract data from a document, but to determine whether independent pieces of evidence tell a consistent story.**
+> **The goal is not simply to extract information from a document, but to determine whether independent pieces of evidence tell a consistent story.**
 
 ### `→` [VIEW DOCDNA](https://github.com/Guikki/docdna)
 
@@ -207,7 +220,9 @@ Instead of relying on a single indicator, the platform combines independent laye
 
 **Full Stack Web Application**
 
-Angular application with reusable UI components, authentication flows and backend API integration.
+Angular application built around reusable UI components, authentication flows and backend integration.
+
+**Stack**
 
 `Angular` · `TypeScript`
 
@@ -223,11 +238,13 @@ Angular application with reusable UI components, authentication flows and backen
 
 **Backend / REST API**
 
-API with authentication, persistence and structured backend architecture.
+REST API with authentication, persistent data and structured backend architecture.
+
+**Stack**
 
 `C#` · `.NET`
 
-`ASP.NET Core` · `EF Core`
+`ASP.NET Core` · `Entity Framework Core`
 
 `MySQL` · `JWT`
 
@@ -245,11 +262,13 @@ API with authentication, persistence and structured backend architecture.
 
 **Document Processing**
 
-Application for extracting metadata and structured information from digital documents.
+Web application focused on extracting metadata and structured information from digital documents.
+
+**Stack**
 
 `Python` · `Flask`
 
-`OCR` · `PDF` · `Excel`
+`OCR` · `PDF Processing` · `Excel`
 
 **[Repository →](https://github.com/Guikki/DataScope)**
 
@@ -261,7 +280,9 @@ Application for extracting metadata and structured information from digital docu
 
 **Digital Forensics**
 
-Experimental forensic-analysis application and one of the technical predecessors of DocDNA.
+Experimental document-forensics application and one of the technical predecessors of DocDNA.
+
+**Stack**
 
 `Python` · `OCR`
 
@@ -280,20 +301,23 @@ Experimental forensic-analysis application and one of the technical predecessors
 ## ◈ ENGINEERING MAP
 
 ```text
-FULL STACK
+FULL STACK ENGINEERING
 │
 ├── FRONTEND
 │   ├── Angular
 │   ├── TypeScript
+│   ├── JavaScript
 │   └── Web Interfaces
 │
 ├── BACKEND
 │   ├── Python / FastAPI
 │   ├── C# / ASP.NET Core
+│   ├── Java
 │   └── REST APIs
 │
 ├── DATA
 │   ├── SQL
+│   ├── MySQL / SQLite
 │   ├── Relational Databases
 │   └── Data Processing
 │
@@ -308,12 +332,59 @@ FULL STACK
 
 ## ◈ CURRENT FOCUS
 
-| SOFTWARE ENGINEERING | COMPUTER SCIENCE | APPLIED TECHNOLOGY |
-|---|---|---|
-| Full Stack Development | Data Structures | Document Intelligence |
-| Software Architecture | Algorithms | Computer Vision |
-| REST APIs | Discrete Mathematics | Applied AI |
-| Testing & Refactoring | Computational Thinking | Digital Forensics |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### SOFTWARE ENGINEERING
+
+`Full Stack Development`
+
+`Software Architecture`
+
+`REST APIs`
+
+`Testing`
+
+`Refactoring`
+
+</td>
+
+<td width="33%" valign="top">
+
+### COMPUTER SCIENCE
+
+`Data Structures`
+
+`Algorithms`
+
+`Discrete Mathematics`
+
+`Computational Thinking`
+
+</td>
+
+<td width="33%" valign="top">
+
+### APPLIED TECHNOLOGY
+
+`Document Intelligence`
+
+`Computer Vision`
+
+`Applied AI`
+
+`Digital Forensics`
+
+</td>
+
+</tr>
+</table>
+
+My current goal is to strengthen my computer science foundations while continuing to build software aimed at solving **real-world problems**.
+
+I want to understand not only how to use frameworks and languages, but also how to design reliable systems, structure code and make better engineering decisions.
 
 ---
 
@@ -323,61 +394,48 @@ FULL STACK
 
 **Universidade Federal da Bahia — UFBA**
 
-Bachelor's degree in progress.
+Bachelor's degree in Computer Science — currently in progress.
 
 ---
 
 ### `02 / DATA SCIENCE`
 
-**Degree completed - Infinity School**
+**Degree completed**
 
-My Data Science background complements my software engineering work, especially in projects involving structured information, automation, document analysis and applied intelligence.
+My Data Science background complements my software engineering work, particularly in projects involving structured information, automation, document analysis and applied intelligence.
 
 ---
 
 ### `03 / LAW & LEGALTECH`
 
-Before focusing my career on software development, I built an extensive background in Law, Digital Law and Legal Technology.
+Before focusing my career on software development, I built an extensive professional background in Law, Digital Law and Legal Technology.
 
-Today, that experience provides domain knowledge for systems involving:
-
-`Digital Evidence` · `Fraud Investigation`
-
-`Document Analysis` · `Compliance`
-
-`LegalTech` · `OSINT` · `AI` 
-
-
----
-
-### `04 / LAWFIRM`
-
-I have experience working in the development and programming on tech departments of law firms.
-
-The most part of this products are developeds were technological solutions for internal needs.
+That experience now provides domain knowledge for software involving:
 
 `Digital Evidence` · `Fraud Investigation`
 
 `Document Analysis` · `Compliance`
 
-`LegalTech` · `OSINT`
+`LegalTech` · `OSINT` · `Information Intelligence`
+
+Rather than defining my current professional direction, this background gives me specialized knowledge for building technology in complex domains.
 
 ---
 
-## ◈ PRINCIPLES
+## ◈ ENGINEERING PRINCIPLES
 
 ```text
-UNDERSTAND
-      ↓
-DESIGN
-      ↓
-BUILD
-      ↓
+UNDERSTAND THE PROBLEM
+          ↓
+DESIGN THE STRUCTURE
+          ↓
+BUILD THE SIMPLEST RELIABLE SOLUTION
+          ↓
 TEST
-      ↓
+          ↓
 REFACTOR
-      ↓
-LEARN
+          ↓
+KEEP LEARNING
 ```
 
 ---
@@ -394,6 +452,6 @@ LEARN
 
 <br>
 
-`FULL STACK · DOCUMENT INTELLIGENCE · ANTIFRAUD`
+`FULL STACK · DOCUMENT INTELLIGENCE · DIGITAL FORENSICS · ANTIFRAUD`
 
 </div>
