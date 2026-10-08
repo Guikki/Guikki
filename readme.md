@@ -1,4 +1,21 @@
-Olá, obrigado por aparecer por aqui!
+<div align="right">
+
+[![English](https://img.shields.io/badge/🇺🇸_English-111827?style=for-the-badge)](./README.md)
+[![Português](https://img.shields.io/badge/🇧🇷_Português-111827?style=for-the-badge)](./README.pt-BR.md)
+
+</div>
+
+# Hello! Thx for coming here! I am Gui Celestino 👨‍💻
+### Full Stack Developer · Computer Science @ UFBA
+
+I'm a lawyer (with OAB and everything) who have so much love for the world of technology, that today i live studying Law and Programming, in an eternal quest to unite these two worlds.
+In this space, my focus is to share some of my programming studies. However, in case it's interesting, I'll also share legal stuff here.
+At the moment my studies are in SQL and Python.
+welcome to my place!
+
+**My linkedIn is: linkedin.com/in/gui-celestino/**
+**My Instagram: instagram.com/guicelestino1*
+This is the English version of my profile.
 
 Meu nome é Guilherme, mas pode me chamar de Guikki sem nenhum problema.
 
