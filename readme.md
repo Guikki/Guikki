@@ -4,21 +4,13 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Gui Celestino - Full Stack Developer">
+</p>
+
 <div align="center">
 
-# GUI CELESTINO
-
-### `FULL STACK DEVELOPER`
-
-**Computer Science @ UFBA · Data Science Graduate**
-
-`PYTHON` · `FASTAPI` · `C# / .NET` · `ANGULAR` · `TYPESCRIPT` · `SQL`
-
----
-
-**FULL STACK DEVELOPMENT · APIs · DOCUMENT INTELLIGENCE · DIGITAL FORENSICS**
-
-> Building software from interface to intelligence.
+> **Building software from interface to intelligence.**
 
 </div>
 
@@ -30,23 +22,16 @@ I'm a **Full Stack Developer**, a Data Science graduate and currently studying C
 
 I build software across the stack, from frontend interfaces and API integrations to backend services, relational databases and document-processing pipelines.
 
-My current work is especially focused on:
+My current work is especially focused on the intersection between:
 
-`Software Engineering`  
-`Full Stack Development`  
-`REST APIs`  
-`Document Intelligence`  
-`Automation`  
-`Digital Forensics`  
-`Antifraud Systems`
+`SOFTWARE ENGINEERING` · `DOCUMENT INTELLIGENCE` · `AUTOMATION` · `DIGITAL FORENSICS`
 
-Before moving my career toward software development, I built a professional background in **Law and Legal Technology**.
+Before moving my career toward software development, I built an extensive professional background in **Law and Legal Technology**.
 
 Today, I use that experience as domain knowledge when designing systems involving digital evidence, document analysis, compliance, fraud investigation and information intelligence.
 
 ```python
 profile = {
-    "name": "Gui Celestino",
     "role": "Full Stack Developer",
 
     "education": {
@@ -63,46 +48,122 @@ profile = {
 }
 ```
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
 
-## STACK
+## CORE STACK
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="25%" valign="top">
 
 ### BACKEND
 
-`Python`  
-`FastAPI`  
-`C#`  
-`.NET / ASP.NET Core`  
+`Python`
+
+`FastAPI`
+
+`C#`
+
+`.NET`
+
+`ASP.NET Core`
+
 `Java`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### FRONTEND
 
-`Angular`  
-`TypeScript`  
-`JavaScript`  
-`HTML`  
+`Angular`
+
+`TypeScript`
+
+`JavaScript`
+
+`HTML`
+
 `CSS`
 
 </td>
-</tr>
 
+<td width="25%" valign="top">
+
+### DATA
+
+`MySQL`
+
+`SQLite`
+
+`SQL`
+
+`Entity Framework`
+
+</td>
+
+<td width="25%" valign="top">
+
+### ENGINEERING
+
+`Git`
+
+`GitHub`
+
+`pytest`
+
+`Swagger`
+
+`Postman`
+
+</td>
+
+</tr>
+</table>
+
+### SPECIALIZED TOOLING
+
+`OCR` · `PyMuPDF` · `OpenCV` · `Tesseract` · `Pillow`
+
+`Metadata Analysis` · `PDF Processing` · `Document Comparison`
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
+
+## ◈ FLAGSHIP PROJECT
+
+# DocDNA
+
+### `DOCUMENT INTELLIGENCE / DIGITAL FORENSICS / ANTIFRAUD`
+
+**DocDNA** is a modular full stack platform for forensic document analysis and fraud investigation.
+
+Instead of relying on a single signal, the system combines several independent analysis layers to determine whether textual, visual, structural and metadata evidence are consistent with each other.
+
+The project supports both individual and batch document analysis and is designed around modularity, separation of responsibilities and progressive integration of forensic techniques.
+
+<table>
 <tr>
+
 <td width="50%" valign="top">
 
-### DATA & PERSISTENCE
+### ANALYSIS
 
-`MySQL`  
-`SQLite`  
-`SQL`  
-`Entity Framework`
+`OCR & Text Extraction`
+
+`PDF Structural Analysis`
+
+`Metadata Extraction`
+
+`Barcode Analysis`
+
+`Document Comparison`
+
+`Visual Evidence Detection`
 
 </td>
 
@@ -110,103 +171,54 @@ profile = {
 
 ### ENGINEERING
 
-`Git`  
-`GitHub`  
-`pytest`  
-`Swagger`  
-`Postman`
+`Batch Processing`
+
+`Investigation Workflows`
+
+`Structured Reports`
+
+`Automated Tests`
+
+`Modular Architecture`
+
+`Independent Analysis Layers`
 
 </td>
+
 </tr>
 </table>
 
-### DOCUMENT INTELLIGENCE
+### TECHNOLOGY
 
-`OCR` · `PyMuPDF` · `OpenCV` · `Tesseract` · `Pillow`
+`Python` · `FastAPI` · `OpenCV` · `Tesseract OCR`
 
-`Metadata Analysis` · `PDF Processing` · `Document Comparison`
+`PyMuPDF` · `Jinja2` · `JavaScript` · `pytest`
 
----
-
-## ◈ FEATURED PROJECT
-
-# DocDNA
-
-### `DOCUMENT INTELLIGENCE / ANTIFRAUD`
-
-**DocDNA** is a modular full stack platform focused on forensic document analysis and fraud investigation.
-
-Rather than relying on a single signal, the application combines independent analysis layers to evaluate whether textual, visual, structural and metadata evidence are consistent with each other.
-
-The project is being designed to support both individual and batch document analysis, with emphasis on maintainability, modularity and the progressive combination of independent forensic techniques.
-
-### CURRENT CAPABILITIES
-
-```text
-01   OCR and text extraction
-
-02   PDF structural analysis
-
-03   Metadata extraction
-
-04   Barcode analysis
-
-05   Document comparison
-
-06   Visual evidence detection
-
-07   Batch processing
-
-08   Investigation workflows
-
-09   Structured reporting
-
-10   Automated testing
-```
-
-### ARCHITECTURE & STACK
-
-`Python` · `FastAPI` · `OpenCV` · `Tesseract OCR` · `PyMuPDF`
-
-`Jinja2` · `HTML` · `CSS` · `JavaScript` · `pytest`
-
-The project follows a modular architecture with separation of responsibilities between application layers, document readers, analysis pipelines, services and domain models.
-
-> **The goal is not only to extract information from documents, but to determine whether independent pieces of evidence tell a consistent story.**
-
-### PROJECT FOCUS
-
-`Document Intelligence`  
-`Digital Forensics`  
-`Fraud Detection`  
-`Computer Vision`  
-`Backend Architecture`  
-`Batch Processing`
+> **The goal is not merely to extract information from a document, but to understand whether independent pieces of evidence tell a consistent story.**
 
 **[VIEW DOCDNA →](https://github.com/Guikki/docdna)**
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
 
 ## SELECTED WORK
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ### GIGANTOBOTS
 
-Full stack web application with an Angular frontend, reusable UI components and backend integration.
+**Full Stack Web Application**
 
-The project explores component-based frontend development, authentication flows, routing and communication with backend services.
+Angular application built around reusable UI components, authentication flows and backend API integration.
 
-**Stack**
+`Angular` · `TypeScript`
 
-`Angular`  
-`TypeScript`  
-`HTML`  
-`CSS`  
-`REST API`
+`HTML` · `CSS` · `REST API`
 
 **[Repository →](https://github.com/Guikki/gigantobots)**
 
@@ -216,18 +228,15 @@ The project explores component-based frontend development, authentication flows,
 
 ### AGENDA DA COPA
 
-REST API designed for match management, users, authentication and persistent application data.
+**Backend / REST API**
 
-The project includes JWT authentication, Entity Framework, relational persistence and structured API endpoints.
+API with authentication, persistent data and structured application architecture.
 
-**Stack**
+`C#` · `.NET`
 
-`C#`  
-`.NET`  
-`ASP.NET Core`  
-`Entity Framework Core`  
-`MySQL`  
-`JWT`
+`ASP.NET Core` · `EF Core`
+
+`MySQL` · `JWT`
 
 **[Repository →](https://github.com/Guikki/agenda-da-copa)**
 
@@ -241,17 +250,13 @@ The project includes JWT authentication, Entity Framework, relational persistenc
 
 ### DATASCOPE
 
-Web application focused on extracting metadata and structured information from digital documents.
+**Document Processing**
 
-The project combines document processing with report generation and automated extraction workflows.
+Web application for extracting metadata and structured information from digital documents.
 
-**Stack**
+`Python` · `Flask`
 
-`Python`  
-`Flask`  
-`OCR`  
-`PDF Processing`  
-`Excel`
+`OCR` · `PDF` · `Excel`
 
 **[Repository →](https://github.com/Guikki/DataScope)**
 
@@ -261,130 +266,143 @@ The project combines document processing with report generation and automated ex
 
 ### ANTIFRAUDESCAN
 
-Experimental document forensics application and one of the projects that preceded the development of DocDNA.
+**Digital Forensics**
 
-It explores OCR, image analysis, document structure and automated forensic indicators.
+Experimental document-forensics application and one of the technical predecessors of DocDNA.
 
-**Stack**
+`Python` · `OCR`
 
-`Python`  
-`OCR`  
-`Image Analysis`  
-`PDF`
+`Image Analysis` · `PDF`
 
 **[Repository →](https://github.com/Guikki/antiFraudeScan)**
 
 </td>
 
 </tr>
+
 </table>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
 
-## ENGINEERING INTERESTS
+## ENGINEERING MAP
 
 ```text
-FULL STACK
+FULL STACK ENGINEERING
 │
-├── Frontend
+├── FRONTEND
 │   ├── Angular
 │   ├── TypeScript
 │   └── Web Interfaces
 │
-├── Backend
+├── BACKEND
 │   ├── Python / FastAPI
 │   ├── C# / ASP.NET Core
 │   └── REST APIs
 │
-├── Data
+├── DATA
 │   ├── SQL
 │   ├── Relational Databases
 │   └── Data Processing
 │
-└── Applied Intelligence
+└── APPLIED INTELLIGENCE
     ├── Document Intelligence
     ├── Computer Vision
     ├── Digital Forensics
     └── Antifraud Systems
 ```
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
 
 ## CURRENT FOCUS
 
-```text
-01   Full Stack Engineering
+| Engineering | Computer Science | Applied Technology |
+|---|---|---|
+| Software Architecture | Data Structures | Document Intelligence |
+| Full Stack Development | Algorithms | Computer Vision |
+| REST APIs | Discrete Mathematics | Applied AI |
+| Testing & Refactoring | Computational Thinking | Digital Forensics |
 
-02   Data Structures & Algorithms
+My current goal is to strengthen my computer science foundations while continuing to build software aimed at **real-world problems**.
 
-03   Software Architecture
-
-04   Document Intelligence
-
-05   Computer Vision
-
-06   Applied Artificial Intelligence
-```
-
-I'm currently strengthening my computer science foundations while building software aimed at solving **real-world problems**.
-
-My goal is not only to learn frameworks and languages, but to improve my understanding of software architecture, algorithms, data structures and engineering practices.
-
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
 
 ## BACKGROUND
 
-### COMPUTER SCIENCE
+### `01 / COMPUTER SCIENCE`
 
 **Universidade Federal da Bahia — UFBA**
 
-Bachelor's degree in Computer Science — currently in progress.
+Bachelor's degree in progress.
 
 ---
 
-### DATA SCIENCE
+### `02 / DATA SCIENCE`
 
 **Degree completed**
 
-My background in Data Science complements my software engineering work, particularly in projects involving structured information, automation, document analysis and applied intelligence.
+My Data Science background complements my software engineering work, particularly in projects involving structured information, automation, document analysis and applied intelligence.
 
 ---
 
-### LAW & LEGALTECH
+### `03 / LAW & LEGALTECH`
 
 Before focusing my career on software development, I built an extensive professional background in Law, Digital Law and Legal Technology.
 
-That experience is now used as domain expertise when developing systems involving:
+That experience now provides domain knowledge for software involving:
 
-`Digital Evidence`  
-`Fraud Investigation`  
-`Document Analysis`  
-`Compliance`  
-`LegalTech`  
-`OSINT`  
+`Digital Evidence`
+
+`Fraud Investigation`
+
+`Document Analysis`
+
+`Compliance`
+
+`LegalTech`
+
+`OSINT`
+
 `Information Intelligence`
 
-Rather than defining my current professional direction, this background gives me specialized knowledge for building technology in complex domains.
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
 
----
-
-## DEVELOPMENT PHILOSOPHY
+## PRINCIPLES
 
 ```text
-Understand the problem.
+UNDERSTAND THE PROBLEM
 
-Design the structure.
+        ↓
 
-Build the smallest reliable solution.
+DESIGN THE STRUCTURE
 
-Test it.
+        ↓
 
-Refactor when the architecture asks for it.
+BUILD THE SIMPLEST RELIABLE SOLUTION
 
-Keep learning.
+        ↓
+
+TEST
+
+        ↓
+
+REFACTOR
+
+        ↓
+
+KEEP LEARNING
 ```
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%">
+</p>
 
 ## CONTACT
 
@@ -392,12 +410,12 @@ Keep learning.
 
 ### GUI CELESTINO
 
-**Full Stack Developer**
+`FULL STACK DEVELOPER`
 
-[GitHub](https://github.com/Guikki) · [LinkedIn](https://www.linkedin.com/in/gui-celestino/)
+**[GITHUB](https://github.com/Guikki)** · **[LINKEDIN](https://www.linkedin.com/in/gui-celestino/)**
 
 <br>
 
-`FULL STACK DEVELOPMENT · DOCUMENT INTELLIGENCE · ANTIFRAUD`
+**FULL STACK · DOCUMENT INTELLIGENCE · ANTIFRAUD**
 
 </div>
