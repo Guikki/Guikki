@@ -1,7 +1,7 @@
 <div align="right">
 
-[![English](https://img.shields.io/badge/🇺🇸_English-111827?style=for-the-badge)](./README.md)
-[![Português](https://img.shields.io/badge/🇧🇷_Português-111827?style=for-the-badge)](./README.pt-BR.md)
+[![English](https://img.shields.io/badge/🇺🇸_English-111827?style=for-the-badge)](https://github.com/Guikki)
+[![Português](https://img.shields.io/badge/🇧🇷_Português-111827?style=for-the-badge)](https://github.com/Guikki/Guikki/blob/main/README.pt-BR.md)
 
 </div>
 
