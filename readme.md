@@ -329,7 +329,7 @@ Bachelor's degree in progress.
 
 ### `02 / DATA SCIENCE`
 
-**Degree completed**
+**Degree completed - Infinity School**
 
 My Data Science background complements my software engineering work, especially in projects involving structured information, automation, document analysis and applied intelligence.
 
@@ -340,6 +340,21 @@ My Data Science background complements my software engineering work, especially 
 Before focusing my career on software development, I built an extensive background in Law, Digital Law and Legal Technology.
 
 Today, that experience provides domain knowledge for systems involving:
+
+`Digital Evidence` · `Fraud Investigation`
+
+`Document Analysis` · `Compliance`
+
+`LegalTech` · `OSINT` · `AI` 
+
+
+---
+
+### `04 / LAWFIRM`
+
+I have experience working in the development and programming on tech departments of law firms.
+
+The most part of this products are developeds were technological solutions for internal needs.
 
 `Digital Evidence` · `Fraud Investigation`
 
