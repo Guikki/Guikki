@@ -277,7 +277,7 @@ That experience became a domain advantage when working with:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Guikki-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guikki)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/gui-celestino/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-celestino/)
 
 </div>
 
