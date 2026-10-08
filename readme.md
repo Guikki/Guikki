@@ -4,55 +4,54 @@
 
 </div>
 
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Gui Celestino - Full Stack Developer">
-</p>
-
 <div align="center">
+
+# GUI CELESTINO
+
+### `FULL STACK DEVELOPER`
+
+**Computer Science @ UFBA · Data Science Graduate**
+
+`PYTHON` · `FASTAPI` · `C# / .NET` · `ANGULAR` · `TYPESCRIPT` · `SQL`
+
+---
+
+### `FULL STACK · APIs · DOCUMENT INTELLIGENCE · DIGITAL FORENSICS`
 
 > **Building software from interface to intelligence.**
 
 </div>
 
-<br>
+---
 
-## ABOUT
+## ◈ ABOUT
 
 I'm a **Full Stack Developer**, a Data Science graduate and currently studying Computer Science at **Universidade Federal da Bahia — UFBA**.
 
-I build software across the stack, from frontend interfaces and API integrations to backend services, relational databases and document-processing pipelines.
+I build software across the stack — from frontend interfaces and API integrations to backend services, relational databases and document-processing pipelines.
 
-My current work is especially focused on the intersection between:
+My current work is particularly focused on:
 
-`SOFTWARE ENGINEERING` · `DOCUMENT INTELLIGENCE` · `AUTOMATION` · `DIGITAL FORENSICS`
+```text
+SOFTWARE ENGINEERING
+│
+├── Full Stack Development
+├── REST APIs
+├── Automation
+│
+└── Applied Intelligence
+    ├── Document Intelligence
+    ├── Digital Forensics
+    └── Antifraud Systems
+```
 
-Before moving my career toward software development, I built an extensive professional background in **Law and Legal Technology**.
+Before moving my career toward software development, I built a professional background in **Law and Legal Technology**.
 
 Today, I use that experience as domain knowledge when designing systems involving digital evidence, document analysis, compliance, fraud investigation and information intelligence.
 
-```python
-profile = {
-    "role": "Full Stack Developer",
+---
 
-    "education": {
-        "current": "Computer Science @ UFBA",
-        "completed": "Data Science"
-    },
-
-    "focus": [
-        "Software Engineering",
-        "Document Intelligence",
-        "Digital Forensics",
-        "Antifraud Systems"
-    ]
-}
-```
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
-
-## CORE STACK
+## ◈ CORE STACK
 
 <table>
 <tr>
@@ -124,15 +123,13 @@ profile = {
 </tr>
 </table>
 
-### SPECIALIZED TOOLING
+### SPECIALIZED
 
-`OCR` · `PyMuPDF` · `OpenCV` · `Tesseract` · `Pillow`
+`OCR` · `PyMuPDF` · `OpenCV` · `Tesseract`
 
-`Metadata Analysis` · `PDF Processing` · `Document Comparison`
+`Pillow` · `Metadata Analysis` · `PDF Processing`
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
+---
 
 ## ◈ FLAGSHIP PROJECT
 
@@ -142,9 +139,7 @@ profile = {
 
 **DocDNA** is a modular full stack platform for forensic document analysis and fraud investigation.
 
-Instead of relying on a single signal, the system combines several independent analysis layers to determine whether textual, visual, structural and metadata evidence are consistent with each other.
-
-The project supports both individual and batch document analysis and is designed around modularity, separation of responsibilities and progressive integration of forensic techniques.
+Instead of relying on a single indicator, the platform combines independent layers of analysis to determine whether textual, visual, structural and metadata evidence are consistent with each other.
 
 <table>
 <tr>
@@ -175,34 +170,32 @@ The project supports both individual and batch document analysis and is designed
 
 `Investigation Workflows`
 
-`Structured Reports`
+`Structured Reporting`
 
 `Automated Tests`
 
 `Modular Architecture`
 
-`Independent Analysis Layers`
+`Independent Pipelines`
 
 </td>
 
 </tr>
 </table>
 
-### TECHNOLOGY
+### STACK
 
 `Python` · `FastAPI` · `OpenCV` · `Tesseract OCR`
 
 `PyMuPDF` · `Jinja2` · `JavaScript` · `pytest`
 
-> **The goal is not merely to extract information from a document, but to understand whether independent pieces of evidence tell a consistent story.**
+> **The goal is not simply to extract data from a document, but to determine whether independent pieces of evidence tell a consistent story.**
 
-**[VIEW DOCDNA →](https://github.com/Guikki/docdna)**
+### `→` [VIEW DOCDNA](https://github.com/Guikki/docdna)
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
+---
 
-## SELECTED WORK
+## ◈ SELECTED WORK
 
 <table>
 
@@ -214,7 +207,7 @@ The project supports both individual and batch document analysis and is designed
 
 **Full Stack Web Application**
 
-Angular application built around reusable UI components, authentication flows and backend API integration.
+Angular application with reusable UI components, authentication flows and backend API integration.
 
 `Angular` · `TypeScript`
 
@@ -230,7 +223,7 @@ Angular application built around reusable UI components, authentication flows an
 
 **Backend / REST API**
 
-API with authentication, persistent data and structured application architecture.
+API with authentication, persistence and structured backend architecture.
 
 `C#` · `.NET`
 
@@ -252,7 +245,7 @@ API with authentication, persistent data and structured application architecture
 
 **Document Processing**
 
-Web application for extracting metadata and structured information from digital documents.
+Application for extracting metadata and structured information from digital documents.
 
 `Python` · `Flask`
 
@@ -268,7 +261,7 @@ Web application for extracting metadata and structured information from digital 
 
 **Digital Forensics**
 
-Experimental document-forensics application and one of the technical predecessors of DocDNA.
+Experimental forensic-analysis application and one of the technical predecessors of DocDNA.
 
 `Python` · `OCR`
 
@@ -282,14 +275,12 @@ Experimental document-forensics application and one of the technical predecessor
 
 </table>
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
+---
 
-## ENGINEERING MAP
+## ◈ ENGINEERING MAP
 
 ```text
-FULL STACK ENGINEERING
+FULL STACK
 │
 ├── FRONTEND
 │   ├── Angular
@@ -313,26 +304,20 @@ FULL STACK ENGINEERING
     └── Antifraud Systems
 ```
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
+---
 
-## CURRENT FOCUS
+## ◈ CURRENT FOCUS
 
-| Engineering | Computer Science | Applied Technology |
+| SOFTWARE ENGINEERING | COMPUTER SCIENCE | APPLIED TECHNOLOGY |
 |---|---|---|
-| Software Architecture | Data Structures | Document Intelligence |
-| Full Stack Development | Algorithms | Computer Vision |
+| Full Stack Development | Data Structures | Document Intelligence |
+| Software Architecture | Algorithms | Computer Vision |
 | REST APIs | Discrete Mathematics | Applied AI |
 | Testing & Refactoring | Computational Thinking | Digital Forensics |
 
-My current goal is to strengthen my computer science foundations while continuing to build software aimed at **real-world problems**.
+---
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
-
-## BACKGROUND
+## ◈ BACKGROUND
 
 ### `01 / COMPUTER SCIENCE`
 
@@ -346,65 +331,43 @@ Bachelor's degree in progress.
 
 **Degree completed**
 
-My Data Science background complements my software engineering work, particularly in projects involving structured information, automation, document analysis and applied intelligence.
+My Data Science background complements my software engineering work, especially in projects involving structured information, automation, document analysis and applied intelligence.
 
 ---
 
 ### `03 / LAW & LEGALTECH`
 
-Before focusing my career on software development, I built an extensive professional background in Law, Digital Law and Legal Technology.
+Before focusing my career on software development, I built an extensive background in Law, Digital Law and Legal Technology.
 
-That experience now provides domain knowledge for software involving:
+Today, that experience provides domain knowledge for systems involving:
 
-`Digital Evidence`
+`Digital Evidence` · `Fraud Investigation`
 
-`Fraud Investigation`
+`Document Analysis` · `Compliance`
 
-`Document Analysis`
+`LegalTech` · `OSINT`
 
-`Compliance`
+---
 
-`LegalTech`
-
-`OSINT`
-
-`Information Intelligence`
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
-
-## PRINCIPLES
+## ◈ PRINCIPLES
 
 ```text
-UNDERSTAND THE PROBLEM
-
-        ↓
-
-DESIGN THE STRUCTURE
-
-        ↓
-
-BUILD THE SIMPLEST RELIABLE SOLUTION
-
-        ↓
-
+UNDERSTAND
+      ↓
+DESIGN
+      ↓
+BUILD
+      ↓
 TEST
-
-        ↓
-
+      ↓
 REFACTOR
-
-        ↓
-
-KEEP LEARNING
+      ↓
+LEARN
 ```
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%">
-</p>
+---
 
-## CONTACT
+## ◈ CONTACT
 
 <div align="center">
 
@@ -416,6 +379,6 @@ KEEP LEARNING
 
 <br>
 
-**FULL STACK · DOCUMENT INTELLIGENCE · ANTIFRAUD**
+`FULL STACK · DOCUMENT INTELLIGENCE · ANTIFRAUD`
 
 </div>
