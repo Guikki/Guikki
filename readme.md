@@ -27,7 +27,7 @@
 
 ---
 
-## `> whoami`
+## `> who am i?`
 
 I'm a **Full Stack Developer** and Computer Science student at **Universidade Federal da Bahia — UFBA**.
 
