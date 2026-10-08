@@ -325,7 +325,6 @@ Today, that experience works as domain knowledge for systems involving:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Guikki&show_icons=true&hide_border=true&bg_color=0B1020&title_color=7C3AED&text_color=F8FAFC&icon_color=EC4899" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guikki&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=F8FAFC" />
 
@@ -339,7 +338,7 @@ Today, that experience works as domain knowledge for systems involving:
 
 [![GitHub](https://img.shields.io/badge/GitHub-GUIKKI-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guikki)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0B1020)](https://www.linkedin.com/in/gui-celestino/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuiCelestino-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0B1020)](https://www.linkedin.com/in/gui-celestino/)
 
 </div>
 
