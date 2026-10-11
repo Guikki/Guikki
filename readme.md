@@ -4,13 +4,19 @@
 
 </div>
 
-<div align="center">
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,40:0B1F4D,75:1D4ED8,100:4338CA&height=180&section=header&text=GUI%20CELESTINO&fontSize=38&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=56"
+    alt="Gui Celestino - Full Stack Developer"
+  />
+</p>
 
-# GUI CELESTINO
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Science+%40+UFBA;Document+Intelligence;Digital+Forensics+%26+Antifraud"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=Software+Engineering;Computer+Science+%40+UFBA;Document+Intelligence;Digital+Forensics+%26+Antifraud"
     alt="Typing SVG"
   />
 </a>
@@ -455,3 +461,13 @@ KEEP LEARNING
 `FULL STACK · DOCUMENT INTELLIGENCE · DIGITAL FORENSICS · ANTIFRAUD`
 
 </div>
+
+<br>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,35:1D4ED8,70:0B1F4D,100:161B22&height=110&section=footer"
+    alt="Footer"
+  />
+</p>
